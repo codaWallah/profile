@@ -13,7 +13,7 @@
   justify-content: center;
   background-image: url("it.gif");
   background-position: center;
-  background-size: cover;
+  background-size: 1500px;
 }
 .profile-card{
   display: flex;
